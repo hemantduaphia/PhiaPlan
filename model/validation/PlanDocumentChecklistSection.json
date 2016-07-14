@@ -1,0 +1,9 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"planDocumentTemplate":		[{"contexts":"save","required":true}],
+		"checklistSectionName":		[{"contexts":"save","required":true}],
+		"checklistSection":		[{"contexts":"save","required":true}],
+		"loopingCodeFlag":	[{"contexts":"save","method":"hasNoLoopingCode"}]
+	}
+}

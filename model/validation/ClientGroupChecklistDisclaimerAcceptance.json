@@ -1,0 +1,9 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"clientGroupChecklist":		[
+		    					{"contexts":"save","required":true},
+								{"contexts":"save","method":"getDisclaimerNotAcceptedByLoggedInAccountFlag"}
+							]
+	}
+}

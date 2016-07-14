@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"question":						[{"contexts":"save","required":true}],
+		"clientGroupChecklist":			[{"contexts":"save","required":true}]
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"properties":{
+		"documentName":		[{"contexts":"save","required":true}],
+		"documentFile":		[{"contexts":"save","required":true}]
+	}
+}

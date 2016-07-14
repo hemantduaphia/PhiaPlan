@@ -1,0 +1,16 @@
+{
+	"contexts":				["save","edit","delete"],
+	"conditions":{
+	    "newClientGroupChecklist":{
+	        "newFlag":{"eq":true}
+	    }
+	},
+	"properties":{
+		"checklist":					[{"contexts":"save","required":true}],
+		"planDocumentTemplate":			[{"contexts":"save","required":true}],
+		"clientGroup":					[{"contexts":"save","required":true}],
+		"clientGroupChecklistName":		[{"contexts":"save","required":true}],
+		"checklistLimitReachedFlag":	[{"contexts":"save","eq":false,"conditions":"newClientGroupChecklist"}]
+		
+	}
+}

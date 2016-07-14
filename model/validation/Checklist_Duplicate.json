@@ -1,0 +1,6 @@
+{
+	"properties":{
+		"checklistName":		[{"required":true}],
+		"checklistCode":		[{"required":true}]
+	}
+}

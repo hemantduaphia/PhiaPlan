@@ -1,0 +1,7 @@
+{
+	"properties":{
+		"clientGroupChecklistName":		[{"required":true}],
+		"checklistID":		[{"required":true}],
+		"planDocumentTemplateID":		[{"required":true}]
+	}
+}

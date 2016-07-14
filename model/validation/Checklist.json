@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"checklistName":		[{"contexts":"save","required":true}],
+		"checklistCode":		[{"contexts":"save","required":true}]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"checklistSectionName":		[{"contexts":"save","required":true}],
+		"questions":		[{"contexts":"delete","maxCollection":0}]
+	}
+}

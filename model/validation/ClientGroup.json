@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"clientGroupName":		[{"contexts":"save","required":true}],
+		"client":				[{"contexts":"save","required":true}]
+	}
+}

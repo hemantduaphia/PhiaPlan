@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"answerValue":		[{"contexts":"save","required":true}],
+		"answerLabel":		[{"contexts":"save","required":true}]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"questionText":		[{"contexts":"save","required":true}],
+		"questionCode":		[{"contexts":"save","required":true}],
+		"answerType":		[{"contexts":"save","required":true}]
+	}
+}

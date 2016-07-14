@@ -1,0 +1,6 @@
+{
+	"properties":{
+		"planDocumentTemplateName":		[{"required":true}],
+		"planDocumentTemplateCode":		[{"required":true}]
+	}
+}

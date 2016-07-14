@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"planDocumentTemplateName":		[{"contexts":"save","required":true}],
+		"checklist":		[{"contexts":"save","required":true}]
+	}
+}

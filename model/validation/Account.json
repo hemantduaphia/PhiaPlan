@@ -1,0 +1,7 @@
+{
+	"contexts":				["save","edit","delete"],
+	"properties":{
+		"firstName":		[{"contexts":"save","required":true}],
+		"lastName":			[{"contexts":"save","required":true}]
+	}
+}

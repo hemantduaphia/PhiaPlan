@@ -1,0 +1,8 @@
+{
+	"properties":{
+		"emailTemplateName":		[{"contexts":"save","required":true}],
+		"emailTemplateCode":		[{"contexts":"save","required":true}],
+		"emailFrom":		[{"contexts":"save","required":true}],
+		"emailSubject":		[{"contexts":"save","required":true}]
+	}
+}
